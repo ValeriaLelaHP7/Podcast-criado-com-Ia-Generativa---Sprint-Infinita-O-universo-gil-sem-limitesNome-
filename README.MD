@@ -7,11 +7,12 @@ Projeto "Criando Podcasts com ia Generativa com o objetivo de gerar um podcast u
 
 ## 🎨Logotipo
 
+
 ## 📷Arte de Capa
 
 
-## 🎙️Audio completo do podcast
-
+## 🎙️Audio completo do podcast publicado no Spotify
+https://open.spotify.com/show/0CEhG6wtW3iJ1eeG7KV222?si=b38F0QiBQVKMQg1aS94t6w
 
 
 ## 💻 Tecnologias utilizadas no projeto
