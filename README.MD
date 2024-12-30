@@ -5,6 +5,12 @@ Título: Sprint Infinita: O universo Agil sem Limites
 
 Projeto "Criando Podcasts com ia Generativa com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
+"C:\Users\lelas\Downloads\PODCAST SPRINT INFINITA\Leonardo_Kino_XL_a_cinematic_photo_of_Cover_art_for_a_podcast_1.jpg"
+
+## 🎙️AUDIO COMPLETO DO PODCAST:
+
+"C:\Users\lelas\Downloads\PODCAST SPRINT INFINITA\Piloto Podcast Sprint Infinita_O universo ágil sem limites_v_final.mp3"
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -29,5 +35,7 @@ Projeto "Criando Podcasts com ia Generativa com o objetivo de gerar um podcast u
 Utilizei os prompts fornecidos pelo professor Felipe, ajustados para meu podcast, dentro do link do `Notion` fornecido na parte de `Materiais do GIT HUB do felipe para criar um podcast de maneira automatizada.
 
 ## 👨‍💻 Expert
-    
+
+https://avatars.githubusercontent.com/u/192012219?v=4
+
 https://github.com/ValeriaLelaHP7
