@@ -5,9 +5,12 @@ Título: Sprint Infinita: O universo Agil sem Limites
 
 Projeto "Criando Podcasts com ia Generativa com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
+## 🎨Logotipo
+
+## 📷Arte de Capa
 
 
-## 🎙️AUDIO COMPLETO DO PODCAST:
+## 🎙️Audio completo do podcast
 
 
 
